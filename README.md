@@ -12,7 +12,7 @@ i am currently student and learning many topics related to code and web developm
 <a target="_blank" href="https://www.facebook.com/Sahil Singh" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/sahil_s.i.n.g.h" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
-💻 Tech Stack:
+#💻 Tech Stack:
 
 🌐 MERN / Web Development
 
